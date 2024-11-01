@@ -693,8 +693,8 @@ Download
 <!-- -->
 
 - [[https://github.com/nirangadh/ceh-practical/tree/main]{.underline}](https://github.com/nirangadh/ceh-practical/tree/main)
-
-DNS N NSLOOKUP
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+#DNS N NSLOOKUP
 
 ?
 
